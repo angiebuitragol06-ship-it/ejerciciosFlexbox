@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f2f1ef;
+    font-family: sans-serif;
+}
+
+.caja {
+    background: #e9e6e2;
+    padding: 15px;
+    max-width: 360px;
+}
